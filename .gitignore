@@ -112,3 +112,4 @@ src/tmp/main
 src/tmp/air.log
 container/db
 image-refresh.sh
+src/main
